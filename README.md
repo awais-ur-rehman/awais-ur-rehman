@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [OculaCare](https://github.com/BilalKhanT/OculaCare)
 
-- 🌱 I’m currently learning **Cubit**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://awais-ur-rehman.github.io/portfolio.github.io/](https://awais-ur-rehman.github.io/portfolio.github.io/)
 
-- ⚡ Interested in **flutter, dart, java, cypress**
+- ⚡ Interested in **flutter, dart, java, cypress, Python, node.js**
 
 - 📫 How to reach me **awaisjarral37@gmail.com**
 

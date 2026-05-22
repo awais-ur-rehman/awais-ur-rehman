@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="awais-ur-rehman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awais-ur-rehman" alt="awais-ur-rehman" /></a> </p>
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fawais-ur-rehman&style=for-the-badge)](https://rankistan.dev)
 
 - 🔭 I’m currently working on [OculaCare](https://github.com/BilalKhanT/OculaCare)
 

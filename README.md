@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://awais-ur-rehman.github.io/portfolio.github.io/](https://awais-ur-rehman.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://awais-ur-rehman.github.io/portfolio.github.io/]([https://awais-ur-rehman.github.io/portfolio.github.io/](https://awais-ur-rehman-personal-website.vercel.app/))
 
 - ⚡ Interested in **flutter, dart, java, cypress, Python, node.js**
 

@@ -1,5 +1,7 @@
 # Awais Ur Rehman
 
+[![Rankistan rank](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fawais-ur-rehman&style=for-the-badge)](https://rankistan.dev)
+
 **Full-Stack and AI Engineer** based in Islamabad, Pakistan. Around three years shipping web, mobile, and applied AI into production.
 
 I work across the stack, but the part I care about most is what a system does once it's live and under load. Most of my work sits at the line where full-stack engineering meets applied AI: RAG pipelines, multi-agent systems, and the plumbing that makes them fast enough to ship.
@@ -20,7 +22,7 @@ Currently a Full-Stack Engineer at **Bridgeframe**, maintaining the SANHA Pakist
 
 ## Competitions
 
-Kaggle silver medalist. Finished 23rd of 3,462 teams in March ML Mania 2026.
+[Kaggle](https://www.kaggle.com/awaisjarral) silver medalist. Finished 23rd of 3,462 teams in March ML Mania 2026.
 
 ## Stack
 
@@ -35,6 +37,8 @@ Anime and manga, which is where a fair number of my side projects start. Footbal
 ## Reach me
 
 - GitHub: [awais-ur-rehman](https://github.com/awais-ur-rehman)
-- LinkedIn: _add your correct profile URL here_
-- Email: _confirm the address you want listed_
-- Portfolio: _link your live site here_
+- LinkedIn: [awais-ur-rehman](https://www.linkedin.com/in/awais-ur-rehman-88615a217/)
+- Portfolio: [awais-ur-rehman-personal-website.vercel.app](https://awais-ur-rehman-personal-website.vercel.app/)
+- Kaggle: [awaisjarral](https://www.kaggle.com/awaisjarral)
+- Devpost: [awais-ur-rehman](https://devpost.com/awais-ur-rehman)
+- Email: awaisjarral37@gmail.com
